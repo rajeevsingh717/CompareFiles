@@ -6,7 +6,7 @@ import string as str
 import numpy as np
 import os
 os.getcwd()
-os.chdir('C:\\Users\\tglb2rs\\Documents\\Python Scripts\\iddcompare')
+os.chdir('C:\\Users\\tglb2rs\\Documents\\Python Scripts\\filecompare')
 ### Loading files into list
 file1 = []
 with open('file1.txt',encoding='utf8', errors='ignore') as file:
